@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zthansen86
 - 👀 I’m interested in the outdoors
 - 🌱 I’m currently learning data analytics/data science
-- 💞️ I’m looking to collaborate on and [rojects that will help me learn data analytics/data science
+- 💞️ I’m looking to collaborate on and projects that will help me learn data analytics/data science
 - 📫 How to reach me ...
 
 <!---
